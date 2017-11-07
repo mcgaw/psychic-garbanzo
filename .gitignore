@@ -1,0 +1,14 @@
+.vscode
+*.java
+*.cpp
+*.rb
+*.hs
+*.cs
+*.pyc
+videos
+venv
+tests
+sample_tests
+*.cnf
+*.txt
+*.sh
